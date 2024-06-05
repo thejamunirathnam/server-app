@@ -1,0 +1,16 @@
+body, html, #root, .app-container {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+.app-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
